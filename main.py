@@ -1,7 +1,8 @@
-example = 'Marsupials'
-
-print(example[0])
-print(example[-1])
-print(example[4:])
-print(example[::-1])
-print(example[::2])
+name = 'Olesia'
+print('Name:', name)
+age = 24
+print('Age:', age)
+age += 0.1
+print('New age:', age)
+is_student = True
+print('Is student:', is_student)
