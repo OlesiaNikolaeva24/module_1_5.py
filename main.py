@@ -1,1 +1,7 @@
-print(type(5 == 5))
+example = 'Marsupials'
+
+print(example[0])
+print(example[-1])
+print(example[4:])
+print(example[::-1])
+print(example[::2])
